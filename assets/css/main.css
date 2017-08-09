@@ -673,3 +673,7 @@ body .header {
     position: relative;
     height: 150px;
 }
+.con-contianer{
+	margin: auto;
+	width:250px;
+}
