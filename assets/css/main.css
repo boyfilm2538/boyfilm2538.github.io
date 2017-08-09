@@ -675,5 +675,5 @@ body .header {
 }
 .con-contianer{
 	margin: auto;
-	width:250px;
+	max-width:250px;
 }
